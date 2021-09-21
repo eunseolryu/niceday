@@ -31,7 +31,7 @@
 
 ## vscode 내부에서 미리보기 창 열기
 
-![2.png](2.png)
+![week01/2.png](week01/2.png)
 
 command + shift + x를 눌러 확장 창을 열어 html preview 설치 누르고
 
@@ -41,9 +41,9 @@ command + shift + x를 눌러 확장 창을 열어 html preview 설치 누르고
 
 마우스로 끌어 놓든 단축키를 사용하든 오른쪽으로 끌어두면 됨.
 
-![3.png](3.png)
+![week01/3.png](week01/3.png)
 
-![4.png](4.png)
+![week01/4.png](week01/4.png)
 
 ## 크롬창에서 미리보기 창 열기
 
