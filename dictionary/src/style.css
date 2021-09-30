@@ -1,0 +1,14 @@
+.App {
+    background-color: #eee;
+    height: 100vh; /* vh는 화면 비율 */
+    width: 100vw;
+    display: flex;
+    flex-direction: column; /*세로로 정렬*/
+}
+
+
+.list-item {
+    padding: 16px;
+    margin: 8px;
+    background-color: aliceblue;
+}
